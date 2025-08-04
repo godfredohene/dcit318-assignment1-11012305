@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\dcit318-assignment1-11012305\TicketPriceCalculatorApp\bin\Debug\TicketPriceCalculatorApp.exe.config
+C:\Users\LENOVO\source\repos\dcit318-assignment1-11012305\TicketPriceCalculatorApp\bin\Debug\TicketPriceCalculatorApp.exe
+C:\Users\LENOVO\source\repos\dcit318-assignment1-11012305\TicketPriceCalculatorApp\bin\Debug\TicketPriceCalculatorApp.pdb
+C:\Users\LENOVO\source\repos\dcit318-assignment1-11012305\TicketPriceCalculatorApp\obj\Debug\TicketPriceCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\dcit318-assignment1-11012305\TicketPriceCalculatorApp\obj\Debug\TicketPriceCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\dcit318-assignment1-11012305\TicketPriceCalculatorApp\obj\Debug\TicketPriceCalculatorApp.exe
+C:\Users\LENOVO\source\repos\dcit318-assignment1-11012305\TicketPriceCalculatorApp\obj\Debug\TicketPriceCalculatorApp.pdb

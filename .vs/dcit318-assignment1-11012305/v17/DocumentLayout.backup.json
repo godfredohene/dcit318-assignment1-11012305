@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\dcit318-assignment1-11012305\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54E42E8-EAD8-4AF4-B8AF-47F95D401D17}|TicketPriceCalculatorApp\\TicketPriceCalculatorApp.csproj|c:\\users\\lenovo\\source\\repos\\dcit318-assignment1-11012305\\ticketpricecalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54E42E8-EAD8-4AF4-B8AF-47F95D401D17}|TicketPriceCalculatorApp\\TicketPriceCalculatorApp.csproj|solutionrelative:ticketpricecalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6077950D-E88C-441B-A41B-318B0E9D158C}|GradeCalculatorApp1\\GradeCalculatorApp1.csproj|c:\\users\\lenovo\\source\\repos\\dcit318-assignment1-11012305\\gradecalculatorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6077950D-E88C-441B-A41B-318B0E9D158C}|GradeCalculatorApp1\\GradeCalculatorApp1.csproj|solutionrelative:gradecalculatorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A95163-6768-4FFA-A09D-2D3AFE11E87A}|TriangleTypeIdentifierApp\\TriangleTypeIdentifierApp.csproj|c:\\users\\lenovo\\source\\repos\\dcit318-assignment1-11012305\\triangletypeidentifierapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A95163-6768-4FFA-A09D-2D3AFE11E87A}|TriangleTypeIdentifierApp\\TriangleTypeIdentifierApp.csproj|solutionrelative:triangletypeidentifierapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\dcit318-assignment1-11012305\\TriangleTypeIdentifierApp\\Program.cs",
+              "RelativeDocumentMoniker": "TriangleTypeIdentifierApp\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\dcit318-assignment1-11012305\\TriangleTypeIdentifierApp\\Program.cs",
+              "RelativeToolTip": "TriangleTypeIdentifierApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:01:48.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\dcit318-assignment1-11012305\\TicketPriceCalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "TicketPriceCalculatorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\dcit318-assignment1-11012305\\TicketPriceCalculatorApp\\Program.cs",
+              "RelativeToolTip": "TicketPriceCalculatorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:01:09.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\dcit318-assignment1-11012305\\GradeCalculatorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "GradeCalculatorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\dcit318-assignment1-11012305\\GradeCalculatorApp1\\Program.cs*",
+              "RelativeToolTip": "GradeCalculatorApp1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:57:32.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
